@@ -211,7 +211,7 @@ Reviewer activity is not evenly distributed across regions, indicating differenc
 
 ## Geographical Insights
 
-![Beyond the Bottle - Geographical Insights](./screenshots/Geographical%20Insights.png)
+![Beyond the Bottle - Geographical Insights](https://github.com/priyanshityagi21/Wine-Tasting/blob/main/Geographical%20Insights.png)
 
 ---
 
