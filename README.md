@@ -207,7 +207,7 @@ Reviewer activity is not evenly distributed across regions, indicating differenc
 
 ## Executive Overview
 
-![Beyond the Bottle - Executive Overview](./screenshots/Executive%20Overview.png)
+![Beyond the Bottle - Executive Overview](https://github.com/priyanshityagi21/Wine-Tasting/blob/main/Executive%20Overview.png)
 
 ## Geographical Insights
 
